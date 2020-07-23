@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color:wheat;
+    color: rgb(24,59,80);
+}
+
+div>p {
+    text-align: center;
+    padding: 30px 30px;
+    color: wheat;
+    font-size: 20px;
+}
+
+body {
+   text-align: center;
+   background-color: rgb(24,59,80);
+
+}
